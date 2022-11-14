@@ -1,0 +1,4 @@
+N ball and K bag are here then the numner of possible combination to store all ball
+Then,
+N+k-1 C k-1 (bag can be empty())
+N-1 C k-1 (bag can not be empty())
