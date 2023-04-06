@@ -5,3 +5,6 @@ N-1 C k-1 (bag can not be empty())
 
 if we have a=nc0+nc1+nc2...ncr
 (n+1)c0+(n+1)c1....(n+1)cr=(2*a)-ncr(n+1,min(n+1,r));
+
+number of way to choose r out of n where r is even=
+nc0+nc2+nc4+nc6+...=2^(n-1)
