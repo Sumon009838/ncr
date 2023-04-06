@@ -2,3 +2,6 @@ N ball and K bag are here then the numner of possible combination to store all b
 Then,
 N+k-1 C k-1 (bag can be empty())
 N-1 C k-1 (bag can not be empty())
+
+if we have a=nc0+nc1+nc2...ncr
+(n+1)c0+(n+1)c1....(n+1)cr=(2*a)-ncr(n+1,min(n+1,r));
